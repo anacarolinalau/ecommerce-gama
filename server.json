@@ -1,0 +1,25 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343705000",
+            "name": "iPhone",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "photo":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343705000",
+            "name": "iPhone",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 3,
+            "photo":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343705000",
+            "name": "iPhone",
+            "description": "Descrição do Produto",
+            "price": 5000
+        }
+    ]
+}
